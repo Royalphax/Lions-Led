@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name arduino_nano)(type Legacy)(uri ${KIPRJMOD}/LIB_SCH/arduino_nano.lib)(options "")(descr ""))
+  (lib (name r)(type Legacy)(uri ${KIPRJMOD}/LIB_SCH/r.lib)(options "")(descr ""))
+  (lib (name c)(type Legacy)(uri ${KIPRJMOD}/LIB_SCH/c.lib)(options "")(descr ""))
+  (lib (name cp)(type Legacy)(uri ${KIPRJMOD}/LIB_SCH/cp.lib)(options "")(descr ""))
+  (lib (name screw_terminal_01x02)(type Legacy)(uri ${KIPRJMOD}/LIB_SCH/screw_terminal_01x02.lib)(options "")(descr ""))
+  (lib (name library)(type Legacy)(uri ${KIPRJMOD}/LIB_SCH/library.lib)(options "")(descr ""))
+)

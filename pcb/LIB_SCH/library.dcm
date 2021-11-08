@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Arduino_Nano_v2.x
+D Arduino Nano v2.x
+K Arduino nano microcontroller module USB
+F https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf
+$ENDCMP
+#
+$CMP Arduino_Nano_v3.x
+D Arduino Nano v3.x
+K Arduino nano microcontroller module USB
+F http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP Screw_Terminal_01x02
+D Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)
+K screw terminal
+F ~
+$ENDCMP
+#
+#End Doc Library
